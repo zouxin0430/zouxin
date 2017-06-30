@@ -212,6 +212,14 @@ section{
 .base_infor,.skills,.project,.honor{
   margin-bottom: 30px;
 }
+.project .link {
+  display: inline-block;
+  float: right;
+  margin-right: 15px;
+}
+.project .link i {
+  color: #CD5C5C;
+}
 @media print{
   .base_infor,.skills,.project,.honor{
     margin-bottom: 18px;
