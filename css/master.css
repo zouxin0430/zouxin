@@ -136,7 +136,7 @@ header .center .pic{
   background-image: url("../img/pic2.jpg");
   background-size: 100px 100px;
   border-radius: 50px;
-  border: 2px solid #20B2AA;
+  border: 2px solid rgb(0, 102, 204);
 }
 header .right{
   flex: 1;
@@ -176,7 +176,7 @@ header .right i{
   height: 30px;
   line-height: 30px;
   border-radius: 15px;
-  background-color: #20B2AA;
+  background-color: rgb(0, 102, 204);
   margin-right: 15px;
   margin-bottom: 8px;
   color: #fff;
@@ -219,10 +219,9 @@ section{
 }
 .tag{
   height: 40px;
-  background-image: url("../img/base3.png");
-  background-repeat: no-repeat;
-  background-size: 220px 40px;
-  padding-left: 55px;
+  width: 170px;
+  text-align: center;
+  background-color: rgb(0, 102, 204);
   line-height: 40px;
   color: #fff;
   margin-bottom: 20px;
@@ -271,7 +270,7 @@ footer{
 footer div{
   height: 40px;
   width: 120px;
-  background-color: #20B2AA;
+  background-color: rgb(0, 102, 204);
   margin-right: 20px;
   text-align: center;
   line-height: 40px;
